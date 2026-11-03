@@ -1,2 +1,2 @@
-# demo-class-1
-tariqe afzal
+This is my first repository
+Author - tariqe afzal
