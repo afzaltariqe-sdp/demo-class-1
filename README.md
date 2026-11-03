@@ -1,3 +1,3 @@
 This is my first repository
 <br>
-Author - tariqe afzal
+Author - Tariqe Afzal
